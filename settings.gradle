@@ -1,0 +1,3 @@
+include ':timerangeselector'
+include ':app'
+rootProject.name = "TimeRangeSelector"
